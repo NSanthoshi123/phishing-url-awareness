@@ -77,6 +77,15 @@ The program is tested using five fictional sample URLs
 provided in the project workbook.
 
 See tests/test_samples.md for the test cases and results.
+### Screenshots
+
+**Sample program run**
+
+![Sample Run](screenshots/sample_run.png)
+
+**Test results**
+
+![Test Results](screenshots/test_results.png)
 
 ## 9. Improvements Included
 
