@@ -87,6 +87,10 @@ See tests/test_samples.md for the test cases and results.
 
 ![Test Results](screenshots/test_results.png)
 
+**five sample tests**
+
+![tests Sample Run](screenshots/five_sample_tests.png)
+
 ## 9. Improvements Included
 
 - Repeat checking: Users can check multiple URLs without
